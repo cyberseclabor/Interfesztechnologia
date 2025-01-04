@@ -1,0 +1,31 @@
+Házi feladatok,  lehetőségek (ezek ingyenesek!):
+
+1. https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US
+
+2. https://www.netacad.com/courses/networking-basics?courseLang=en-US
+
+3. https://www.netacad.com/courses/introduction-iot?courseLang=en-US
+
+4. https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=en-US
+(nem kapcsolódik a tárgyunkhoz, de  érdekes,  modern téma, szerintem fontos terület)
+
+5. https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US
+
+6. https://www.netacad.com/courses/network-support-security?courseLang=en-US
+
+7. https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US
+
+8. https://www.netacad.com/courses/network-defense?courseLang=en-US
+
+9. https://www.netacad.com/courses/endpoint-security?courseLang=en-US
+
+10. https://www.netacad.com/courses/cyber-threat-management?courseLang=en-US
+
+
+
+Az érdeklődőknek (nagyobb óraszám):
+1. https://www.netacad.com/courses/ethical-hacker?courseLang=en-US
+
+2. https://www.netacad.com/courses/cybersecurity-essentials?courseLang=en-US
+
+stb

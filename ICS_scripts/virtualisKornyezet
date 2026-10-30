@@ -1,0 +1,11 @@
+1. Virtuális környezet létrehozása
+python3 -m venv ~/modbus-venv
+
+2. Aktiválás
+source ~/modbus-venv/bin/activate
+
+3. Csomag telepítése
+pip install pyModbusTCP
+
+4. Szerver indítása
+python modbusServer.py
